@@ -12,6 +12,7 @@ The final version can be downloaded to manual updates.
 - Train the model 
 - Analyse the last candle, decide based in the probability to open order or wait until next candle
 - Powered by Python, Sckit learn
+- Operate in M30 and monitor in M5
 
 ## 📦 Tech Stack
 - Python, Sckit learn
